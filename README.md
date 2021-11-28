@@ -1,4 +1,4 @@
-# thai-linux-wallpapers [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)[![Generic badge](https://img.shields.io/badge/USES-GIMP-green.svg)](https://shields.io/)
+# thai-linux-wallpapers [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) [![Generic badge](https://img.shields.io/badge/USES-GIMP-green.svg)](https://shields.io/)
 
 Collection of wallpapers from Linux Thai and TLWG (Thai Linux Working Group) communities.
 
